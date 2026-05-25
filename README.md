@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaviya2405/kaviya2405/main/Blue%20Black%203D%20Marketing%20Idea%20Twitter%20Header.gif" alt="Kaviya K Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/kaviya2405/kaviya2405/main/banner.gif" width="100%" />
 </p>
 
 # About Me:
